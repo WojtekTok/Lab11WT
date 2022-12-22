@@ -5,7 +5,7 @@
 2102
 3. Jaka jest populacja miasta Nowy Jork?
 8175032
-4. Jaka jest populacja Bronxu, Manhattanu i Queens?
+4. Jaka jest populacja Bronxu, Manhattanu i Queens?\n
 5201602
 5. Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)?
 Queens        30
